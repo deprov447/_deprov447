@@ -1,13 +1,12 @@
 <!-- Header-->
 
 <h1 align="center">Hi 👋, I'm Anubhav Choudhary</h1>
-<h3 align="center">A pre-final year student at IIIT-Bh majoring in Computer Science</h3>
+<h3 align="center">A final year engineering undergrad at IIIT-Bh, specializing in Computer Science and Engineering</h3>
 
 <!-- About me-->
 <hr>
 <p>
-I'm mainly a fullstack developer, but a firm believer that college is the best time to explore and expand as much as possible.
-So you'll find me doing playing around with all the fields:
+I'm a general developer, by which I mean, I like to work on anything that interest me,including 
 
 - Full stack web
 - Cloud administration
@@ -24,9 +23,9 @@ And apart from these, I also enjoy reading technical blogs, learning fundamental
 
 <p align="center">
 <br>
-<a href="mailto:deprov447@duck.com?"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="mailto:deprov447@protonmail.com?"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/deprov447"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://deprov447.me"><img src="https://img.shields.io/badge/Portfolio-111111.svg?style=for-the-badge"/></a>
+<a href="https://deprov447.github.io"><img src="https://img.shields.io/badge/Portfolio-111111.svg?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/%23irc-deprov447-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <a href="https://buymeacoffee.com/deprov447"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
   </p>
